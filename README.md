@@ -12,5 +12,5 @@ docker run -it anirudh06/pet_bot "nannoo"
 ```
 
 ```
-python3 -m streamlit run welcome_👋️.py
+python3 -m streamlit run welcome.py
 ```
