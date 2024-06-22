@@ -1,0 +1,1 @@
+ABILITIES = ["cursed body", "levitate"]
